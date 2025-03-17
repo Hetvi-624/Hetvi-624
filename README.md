@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hetvi Chovatiya</h1>
 <h3 align="center">Intern</h3>
 
+- 🌱 I’m currently learning **AIML**
+
 - 📫 How to reach me **hetvichovatiya624@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
