@@ -32,23 +32,29 @@ Here are some of the tools and technologies I work with:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi-624&layout=compact&theme=radical" />
 </a>
+
+
 ## 🃏 GitHub Profile Summary Card
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hetvi-624&theme=monokai)
 
 ## 🤝 Let's Connect!
 
-<a href="https://www.linkedin.com/in/Hetvi Chovatiya">
-  <img align="left" alt="Hetvi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/hetvi_chovatiya">
-  <img align="left" alt="Hetvi's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.kaggle.com/Hetvi624">
-  <img align="left" alt="Hetvi's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
-</a>
+<p align="center">
+  <a href="https://github.com/Hetvi-624" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/hetvi624" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/hetvichovatiya" target="_blank">
+    <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/hetvi chovatiya" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+</p>
 
-<br><br>
 
 ## 🎉 Fun Facts
 
