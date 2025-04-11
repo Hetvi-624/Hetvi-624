@@ -26,10 +26,10 @@ Here are some of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Hetvi-624">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hetvi-chovatiya&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Hetvi-624">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi-chovatiya&layout=compact&theme=radical" />
 </a>
 
