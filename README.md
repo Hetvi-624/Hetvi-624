@@ -26,16 +26,15 @@ Here are some of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Hetvi-624">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hetvi-chovatiya&show_icons=true&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hetvi-624&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Hetvi-624">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi-chovatiya&layout=compact&theme=radical" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi-624&layout=compact&theme=radical" />
 </a>
-
 ## 🃏 GitHub Profile Summary Card
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetvi-chovatiya&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hetvi-624&theme=monokai)
 
 ## 🤝 Let's Connect!
 
